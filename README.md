@@ -1,11 +1,5 @@
 # Dohyeon Kwon
 ### Hello 👋   
-[t4](http://13.225.129.106/admin)
-[t5](https://13.225.129.106/admin)
-[t5](13.225.129.106/admin)
-[t5](https://13.225.129.106)
-[t5](http://13.225.129.106)
-[t5](13.225.129.106)
 [![Dohyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=playdev7&theme=moltack&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=playdev7)](https://solved.ac/playdev7)
 
