@@ -19,6 +19,7 @@
 [![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-0B53CE.svg?&style=for-the-badge&logo=Microsoft&logoColor=white)](https://www.microsoft.com/microsoft-365)
 
 ### Certifications
-![NVIDIA DLI Instructor](https://d29g4g2dyqv443.cloudfront.net/sites/default/files/akamai/dli/logo.png)
+![NVIDIA DLI Instructor](https://d29g4g2dyqv443.cloudfront.net/sites/default/files/akamai/dli/logo.png)   
+
 [![MS Learn Profile](https://img.shields.io/badge/go%20to%20MS%20Profile-5E5E5E.svg?&style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/ko-kr/users/dkwon/certifications)
 [![Credly Profile](https://img.shields.io/badge/go%20to%20Credly%20Profile-FF6B00.svg?&style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/dohyeon)
