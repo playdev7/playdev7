@@ -18,56 +18,7 @@
 [![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)](https://git-scm.com/)
 [![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-0B53CE.svg?&style=for-the-badge&logo=Microsoft&logoColor=white)](https://www.microsoft.com/microsoft-365)
 
-### Environment
-[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)](https://code.visualstudio.com/)
-[![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)](https://www.eclipse.org/)
-[![Windows](https://img.shields.io/badge/Windows-0078D6.svg?&style=for-the-badge&logo=Windows&logoColor=white)](https://learn.microsoft.com/en-us/windows/)
-[![macOS](https://img.shields.io/badge/macOS-000000.svg?&style=for-the-badge&logo=macOS&logoColor=white)](https://support.apple.com/guide/mac-help/welcome/mac)
-[![GitHub](https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/playdev7)
-
 ### Certifications
-<div style="block">
-<img src="https://learn.microsoft.com/ko-kr/media/learn/certification/badges/microsoft-certified-expert-badge.svg" width="75px" />
-<img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg?branch=main" width="75px" />
-<img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main" width="75px" />
-<img src="https://images.credly.com/size/680x680/images/265436ac-abfb-4199-b536-0fafe5f91e78/MOS_Master.png" width="75px" />
-<img src="https://images.credly.com/size/680x680/images/cd9454ae-8105-4bf0-a53c-902740176b32/MOS_Excel_Expert6.png" width="75px" />
-<img src="https://images.credly.com/size/680x680/images/238bc0c8-e93e-4f61-aba2-255ca4e0f220/MOS_Word_Expert1.png" width="75px" />
-<img src="https://images.credly.com/size/680x680/images/96c033ea-d798-45d7-9c2c-80834335706d/MOS_PowerPoint.png" width="75px" />
-<img src="https://images.credly.com/size/680x680/images/cbcee0cb-3281-4c8d-b402-7dc8bcf81426/MOS_Access.png" width="75px" />
-</div>
-
+![NVIDIA DLI Instructor](https://d29g4g2dyqv443.cloudfront.net/sites/default/files/akamai/dli/logo.png)
 [![MS Learn Profile](https://img.shields.io/badge/go%20to%20MS%20Profile-5E5E5E.svg?&style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/ko-kr/users/dkwon/certifications)
 [![Credly Profile](https://img.shields.io/badge/go%20to%20Credly%20Profile-FF6B00.svg?&style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/dohyeon)
-
-#### Microsoft 365 Certified
-  - Microsoft 365 Certified: Fundamentals
-#### Microsoft Office Specialist: 2016 Master
-  - Microsoft Office Specialist: Excel Expert (Office 2016)
-  - Microsoft Office Specialist: Word Expert (Office 2016)
-  - Microsoft Office Specialist: PowerPoint (Office 2016)
-  - Microsoft Office Specialist: Access (Office 2016)
-
-
-
-<!-- Profile Link
-- MS Learn Profile
-  https://learn.microsoft.com/ko-kr/users/dkwon/certifications
-- Credly Profile
-  https://www.credly.com/users/dohyeon
--->
-
-<!-- Tech Stack Badge
-** simpleicons.org 의 svg를 참조하여 shileds.io 통한 Badge 제작
-- Template
-    https://img.shields.io/badge/%7Bbadge_name%7D-%7Bcolor_hex%7D?style=for-the-badge&logo={logo}&logoColor={logo_color_like_white}
--->
-
-<!-- svg List
-- Microsoft Fundamentals Certified (1-Star) - Microsoft
-  https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main
-- Microsoft Associate Certified (2-Star) - Microsoft
-  https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg?branch=main
-- Microsoft Expert Certified (3-Star) - Microsoft
-  https://learn.microsoft.com/ko-kr/media/learn/certification/badges/microsoft-certified-expert-badge.svg
--->
